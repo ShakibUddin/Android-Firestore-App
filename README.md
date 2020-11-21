@@ -1,2 +1,2 @@
 # Android-Firestore-App
-Add your own google-services.json file
+Add your own google-services.json file from Firebase.
